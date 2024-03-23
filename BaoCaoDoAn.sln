@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DLL", "DLL\DLL.csproj", "{4AE3B11A-BF92-4840-B7C0-404525C84165}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SapXepGianHang", "SapXepGianHang\SapXepGianHang.csproj", "{F4F9226A-C72E-4F36-81F0-B644208A8E99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AE3B11A-BF92-4840-B7C0-404525C84165}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AE3B11A-BF92-4840-B7C0-404525C84165}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AE3B11A-BF92-4840-B7C0-404525C84165}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AE3B11A-BF92-4840-B7C0-404525C84165}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4F9226A-C72E-4F36-81F0-B644208A8E99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4F9226A-C72E-4F36-81F0-B644208A8E99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4F9226A-C72E-4F36-81F0-B644208A8E99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4F9226A-C72E-4F36-81F0-B644208A8E99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64C0974D-DC9B-474D-9EF7-19B8F2377D55}
+	EndGlobalSection
+EndGlobal

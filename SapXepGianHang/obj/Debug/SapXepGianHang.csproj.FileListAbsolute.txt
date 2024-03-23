@@ -1,0 +1,15 @@
+C:\C#\BaoCaoDoAn\SapXepGianHang\bin\Debug\SapXepGianHang.exe.config
+C:\C#\BaoCaoDoAn\SapXepGianHang\bin\Debug\SapXepGianHang.exe
+C:\C#\BaoCaoDoAn\SapXepGianHang\bin\Debug\SapXepGianHang.pdb
+C:\C#\BaoCaoDoAn\SapXepGianHang\bin\Debug\DLL.dll
+C:\C#\BaoCaoDoAn\SapXepGianHang\bin\Debug\DLL.pdb
+C:\C#\BaoCaoDoAn\SapXepGianHang\obj\Debug\SapXepGianHang.csproj.AssemblyReference.cache
+C:\C#\BaoCaoDoAn\SapXepGianHang\obj\Debug\SapXepGianHang.csproj.SuggestedBindingRedirects.cache
+C:\C#\BaoCaoDoAn\SapXepGianHang\obj\Debug\SapXepGianHang.frmSapXepGianHang.resources
+C:\C#\BaoCaoDoAn\SapXepGianHang\obj\Debug\SapXepGianHang.Properties.Resources.resources
+C:\C#\BaoCaoDoAn\SapXepGianHang\obj\Debug\SapXepGianHang.TableUserControl.resources
+C:\C#\BaoCaoDoAn\SapXepGianHang\obj\Debug\SapXepGianHang.csproj.GenerateResource.cache
+C:\C#\BaoCaoDoAn\SapXepGianHang\obj\Debug\SapXepGianHang.csproj.CoreCompileInputs.cache
+C:\C#\BaoCaoDoAn\SapXepGianHang\obj\Debug\SapXepGianHang.csproj.CopyComplete
+C:\C#\BaoCaoDoAn\SapXepGianHang\obj\Debug\SapXepGianHang.exe
+C:\C#\BaoCaoDoAn\SapXepGianHang\obj\Debug\SapXepGianHang.pdb
